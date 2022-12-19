@@ -14,8 +14,8 @@ Partly replicating a study on the relationship between repression in autocratic 
 
 ---
 
-1) Table SI.3.1 of the Supporting Information, SI.3.2 of the Supporting Information, Figure 1 of the main paper, Figure SI.1.1
+1) Table SI.3.1 of the Supporting Information, SI.3.2 of the Supporting Information, Figure 1 of the main paper, Figure SI.1.1 of the Supporting Information.
 2) Table SI.4.1
-3) Figure 5 of the main paper
-4) Table SI.4.5 of the Supporting Information
+3) Figure 5 of the main paper.
+4) Table SI.4.5 of the Supporting Information.
 5) Table SI.4.7 of the Supplementary Information, Figure 6 of the main paper.
