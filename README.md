@@ -19,3 +19,18 @@ Partly replicating a study on the relationship between repression in autocratic 
 3) Figure 5 of the main paper.
 4) Table SI.4.5 of the Supporting Information.
 5) Table SI.4.7 of the Supplementary Information, Figure 6 of the main paper.
+
+## Dependencies
+
+* pandas
+* seaborn
+* matplotlib
+* numpy
+* statsmodels
+  ```sh
+  pip install statsmodels
+  ```
+ * plotnine
+  ```sh
+  pip install plotnine
+  ```
