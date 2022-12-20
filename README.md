@@ -23,14 +23,24 @@ Partly replicating a study on the relationship between repression in autocratic 
 ## Dependencies
 
 * pandas
+
+
 * seaborn
+
+
 * matplotlib
+
+
 * numpy
+
+
 * statsmodels
   ```sh
   pip install statsmodels
   ```
- * plotnine
+  
+  
+* plotnine
   ```sh
   pip install plotnine
   ```
